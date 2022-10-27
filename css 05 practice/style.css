@@ -1,0 +1,18 @@
+.parent .child {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.mama .son {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center; 
+}
+.mama .daughter {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
